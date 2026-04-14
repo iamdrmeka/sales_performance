@@ -1,0 +1,301 @@
+Order ID,Order Date,Customer Name,Region,Product Category,Product Sub-Category,Product Name,Units Sold,Unit Price,Discount (%),Total Sales,Profit,Cost per Unit
+ORD1000,2023-04-13,Customer 82,North,Furniture,Bookcases,3-Shelf Bookcase,4,86.98,0,347.92,91.56,64.09
+ORD1001,2023-12-15,Customer 70,North,Office Supplies,Storage,Filing Cabinet,1,64.97,0.05,61.7215,17.7415,43.98
+ORD1002,2023-09-28,Customer 4,South,Office Supplies,Storage,Filing Cabinet,8,302.85,0,2422.8,567.92,231.86
+ORD1003,2023-04-17,Customer 21,West,Technology,Copiers,All-in-One Copier,4,479.46,0.1,1726.056,698.536,256.88
+ORD1004,2023-03-13,Customer 49,North,Technology,Copiers,Color Copier 3000,1,370.27,0.2,296.216,94.906,201.31
+ORD1005,2023-07-08,Customer 49,North,Office Supplies,Art,Markers Set,10,112.3,0,1123,543.5,57.95
+ORD1006,2023-01-21,Customer 30,East,Furniture,Tables,Oak Table,7,153.43,0.25,805.5075,-45.0625,121.51
+ORD1007,2023-04-13,Customer 21,East,Technology,Accessories,USB Hub,2,312.38,0.05,593.522,164.342,214.59
+ORD1008,2023-05-02,Customer 32,South,Technology,Machines,Laminator,9,125.42,0.1,1015.902,118.512,99.71
+ORD1009,2023-08-03,Customer 100,North,Furniture,Chairs,Comfort Seat,7,148.52,0.05,987.658,135.548,121.73
+ORD1010,2023-11-27,Customer 73,East,Furniture,Furnishings,Wall Art,8,88.58,0.05,673.208,257.688,51.94
+ORD1011,2023-03-29,Customer 72,East,Office Supplies,Storage,Plastic Storage Box,6,125.27,0.05,714.039,204.219,84.97
+ORD1012,2023-04-10,Customer 12,North,Furniture,Tables,Workstation Pro,3,400.2,0.15,1020.51,169.59,283.64
+ORD1013,2023-12-26,Customer 50,West,Office Supplies,Storage,Plastic Storage Box,9,433.17,0,3898.53,1021.05,319.72
+ORD1014,2023-06-01,Customer 15,East,Office Supplies,Art,Sketch Pad,5,228.69,0.15,971.9325,398.9325,114.6
+ORD1015,2023-05-11,Customer 93,East,Office Supplies,Paper,Printer Paper,5,424,0.2,1696,184.15,302.37
+ORD1016,2023-05-30,Customer 20,East,Furniture,Chairs,Executive Leather,6,254.53,0,1527.18,267,210.03
+ORD1017,2023-11-05,Customer 40,South,Furniture,Tables,Workstation Pro,2,61.11,0.15,103.887,7.867,48.01
+ORD1018,2023-09-15,Customer 98,South,Furniture,Furnishings,Desk Lamp,5,273.28,0.2,1093.12,207.57,177.11
+ORD1019,2023-12-10,Customer 28,South,Office Supplies,Art,Markers Set,6,230.29,0.2,1105.392,196.152,151.54
+ORD1020,2023-10-21,Customer 32,South,Furniture,Bookcases,3-Shelf Bookcase,10,285.88,0.2,2287.04,637.34,164.97
+ORD1021,2023-07-11,Customer 10,North,Furniture,Chairs,ErgoChair X,6,54.01,0.05,307.857,114.237,32.27
+ORD1022,2023-10-04,Customer 63,South,Office Supplies,Paper,Graph Paper,4,396.62,0.15,1348.508,449.548,224.74
+ORD1023,2023-06-10,Customer 13,West,Technology,Machines,Laminator,8,434.64,0,3477.12,919.12,319.75
+ORD1024,2023-11-10,Customer 83,North,Furniture,Furnishings,Wall Art,2,139.36,0.05,264.784,73.104,95.84
+ORD1025,2023-01-22,Customer 18,West,Furniture,Bookcases,8-Cube Organizer,4,439.75,0,1759,606.68,288.08
+ORD1026,2023-09-10,Customer 71,North,Furniture,Chairs,ErgoChair X,4,99.83,0.15,339.422,72.502,66.73
+ORD1027,2023-08-24,Customer 52,North,Furniture,Furnishings,Desk Lamp,7,147.3,0.15,876.435,257.915,88.36
+ORD1028,2023-12-11,Customer 90,West,Furniture,Tables,Glass Desk,4,484.98,0.2,1551.936,82.416,367.38
+ORD1029,2023-02-18,Customer 8,East,Furniture,Chairs,Executive Leather,8,261.37,0.2,1672.768,512.048,145.09
+ORD1030,2023-02-28,Customer 66,North,Furniture,Chairs,Executive Leather,2,344.1,0.05,653.79,212.43,220.68
+ORD1031,2023-06-19,Customer 73,South,Office Supplies,Binders,Ring Binder,7,335.54,0.2,1879.024,274.834,229.17
+ORD1032,2023-07-07,Customer 34,South,Office Supplies,Art,Sketch Pad,5,209.98,0.25,787.425,25.275,152.43
+ORD1033,2023-09-28,Customer 59,East,Furniture,Chairs,Comfort Seat,10,499.26,0,4992.6,2368.3,262.43
+ORD1034,2023-07-09,Customer 28,East,Furniture,Bookcases,3-Shelf Bookcase,4,197.37,0.05,750.006,234.206,128.95
+ORD1035,2023-06-24,Customer 70,East,Office Supplies,Binders,Executive Binder,2,470.69,0.05,894.311,336.491,278.91
+ORD1036,2023-02-20,Customer 14,South,Technology,Copiers,All-in-One Copier,6,117.73,0.25,529.785,-34.275,94.01
+ORD1037,2023-12-30,Customer 65,West,Technology,Phones,SmartPhone A1,7,418.09,0,2926.63,1459.71,209.56
+ORD1038,2023-02-24,Customer 99,South,Office Supplies,Art,Sketch Pad,8,284.81,0.15,1936.708,350.148,198.32
+ORD1039,2023-09-01,Customer 15,North,Office Supplies,Paper,Printer Paper,6,299.6,0.05,1707.72,538.5,194.87
+ORD1040,2023-11-16,Customer 6,East,Technology,Phones,Cordless Phone Z,4,347.39,0.25,1042.17,297.41,186.19
+ORD1041,2023-05-11,Customer 100,West,Office Supplies,Paper,Printer Paper,3,488.58,0.05,1392.453,207.423,395.01
+ORD1042,2023-11-03,Customer 4,South,Office Supplies,Art,Markers Set,4,148.07,0.25,444.21,125.65,79.64
+ORD1043,2023-05-15,Customer 5,West,Furniture,Tables,Glass Desk,6,166.49,0.05,948.993,371.553,96.24
+ORD1044,2023-01-21,Customer 85,South,Technology,Copiers,Color Copier 3000,2,484.11,0.1,871.398,268.298,301.55
+ORD1045,2023-11-25,Customer 66,West,Office Supplies,Art,Sketch Pad,2,440.98,0.1,793.764,297.664,248.05
+ORD1046,2023-06-16,Customer 34,North,Furniture,Furnishings,Wall Art,6,229.47,0.2,1101.456,357.336,124.02
+ORD1047,2023-10-01,Customer 74,South,Technology,Phones,Cordless Phone Z,1,269.56,0.2,215.648,16.068,199.58
+ORD1048,2023-03-30,Customer 95,South,Technology,Machines,Fax Machine,6,319.11,0.25,1435.995,-89.625,254.27
+ORD1049,2023-11-12,Customer 93,East,Office Supplies,Art,Markers Set,6,213.15,0.1,1151.01,263.37,147.94
+ORD1050,2023-01-14,Customer 25,West,Office Supplies,Storage,Filing Cabinet,10,293.17,0.15,2491.945,463.845,202.81
+ORD1051,2023-08-30,Customer 1,East,Technology,Accessories,USB Hub,10,311.2,0.1,2800.8,738.3,206.25
+ORD1052,2023-09-22,Customer 57,South,Office Supplies,Storage,Filing Cabinet,2,156.22,0.25,234.33,8.89,112.72
+ORD1053,2023-12-12,Customer 43,North,Furniture,Bookcases,3-Shelf Bookcase,4,90.73,0,362.92,150.36,53.14
+ORD1054,2023-02-22,Customer 61,North,Technology,Machines,Fax Machine,7,257.3,0.05,1711.045,717.465,141.94
+ORD1055,2023-12-06,Customer 89,North,Furniture,Furnishings,Desk Lamp,3,405.97,0.25,913.4325,83.6925,276.58
+ORD1056,2023-04-02,Customer 7,South,Furniture,Furnishings,Desk Lamp,8,340.44,0.2,2178.816,249.456,241.17
+ORD1057,2023-09-21,Customer 97,West,Office Supplies,Storage,Plastic Storage Box,3,376.95,0.15,961.2225,217.6725,247.85
+ORD1058,2023-02-04,Customer 97,South,Office Supplies,Art,Markers Set,4,151.81,0,607.24,151.96,113.82
+ORD1059,2023-07-25,Customer 31,East,Technology,Copiers,All-in-One Copier,3,92.4,0.15,235.62,29.7,68.64
+ORD1060,2023-03-22,Customer 91,South,Furniture,Furnishings,Wall Art,6,280.45,0.15,1430.295,552.255,146.34
+ORD1061,2023-02-19,Customer 54,West,Office Supplies,Binders,Executive Binder,8,22.83,0.1,164.376,53.976,13.8
+ORD1062,2023-12-26,Customer 50,West,Office Supplies,Paper,Graph Paper,4,151.01,0.15,513.434,205.274,77.04
+ORD1063,2023-01-02,Customer 44,West,Office Supplies,Paper,Graph Paper,3,490.75,0.2,1177.8,427.77,250.01
+ORD1064,2023-02-23,Customer 51,North,Furniture,Furnishings,Desk Lamp,8,107.23,0.1,772.056,229.336,67.84
+ORD1065,2023-04-16,Customer 28,West,Technology,Copiers,Color Copier 3000,5,380.96,0.15,1619.08,498.48,224.12
+ORD1066,2023-09-17,Customer 11,West,Furniture,Chairs,Comfort Seat,4,332.07,0.25,996.21,313.37,170.71
+ORD1067,2023-11-06,Customer 4,South,Furniture,Chairs,Executive Leather,3,134.5,0.15,342.975,46.695,98.76
+ORD1068,2023-07-10,Customer 73,South,Technology,Copiers,Color Copier 3000,3,310.83,0.25,699.3675,-1.3425,233.57
+ORD1069,2023-08-06,Customer 100,South,Technology,Phones,SmartPhone A1,5,296.38,0.15,1259.615,312.915,189.34
+ORD1070,2023-02-13,Customer 92,South,Furniture,Tables,Oak Table,5,428.14,0.2,1712.56,38.66,334.78
+ORD1071,2023-06-11,Customer 73,North,Technology,Machines,Laminator,2,262.86,0.1,473.148,207.968,132.59
+ORD1072,2023-07-21,Customer 54,West,Furniture,Furnishings,Wall Art,8,359.51,0.15,2444.668,829.308,201.92
+ORD1073,2023-09-27,Customer 67,East,Office Supplies,Storage,Plastic Storage Box,7,416.35,0.2,2331.56,600.53,247.29
+ORD1074,2023-12-17,Customer 32,North,Technology,Machines,Fax Machine,8,293.53,0.25,1761.18,275.58,185.7
+ORD1075,2023-10-31,Customer 4,West,Technology,Accessories,USB Hub,4,190.32,0.1,685.152,213.832,117.83
+ORD1076,2023-09-28,Customer 77,East,Office Supplies,Binders,Ring Binder,2,135.85,0.15,230.945,48.625,91.16
+ORD1077,2023-08-03,Customer 98,South,Office Supplies,Storage,Plastic Storage Box,8,400.61,0,3204.88,1272.4,241.56
+ORD1078,2023-09-09,Customer 52,South,Technology,Copiers,Color Copier 3000,9,274.84,0.15,2102.526,2.916,233.29
+ORD1079,2023-07-09,Customer 71,East,Technology,Machines,Laminator,5,140.67,0,703.35,174.1,105.85
+ORD1080,2023-10-23,Customer 41,North,Office Supplies,Paper,Printer Paper,4,374.53,0.1,1348.308,219.308,282.25
+ORD1081,2023-08-01,Customer 98,East,Furniture,Tables,Glass Desk,4,193.22,0.1,695.592,305.312,97.57
+ORD1082,2023-07-27,Customer 69,South,Technology,Phones,SmartPhone A1,9,160.23,0.05,1369.9665,326.9565,115.89
+ORD1083,2023-08-25,Customer 97,West,Furniture,Chairs,Executive Leather,5,245.31,0.15,1042.5675,283.0175,151.91
+ORD1084,2023-12-04,Customer 7,East,Technology,Phones,SmartPhone A1,7,256.04,0.2,1433.824,142.814,184.43
+ORD1085,2023-02-22,Customer 7,South,Furniture,Bookcases,3-Shelf Bookcase,4,76.86,0.15,261.324,42.364,54.74
+ORD1086,2023-10-07,Customer 80,South,Office Supplies,Storage,Plastic Storage Box,8,162.73,0.2,1041.472,-60.528,137.75
+ORD1087,2023-08-05,Customer 40,North,Office Supplies,Binders,Ring Binder,4,147.03,0,588.12,261.72,81.6
+ORD1088,2023-09-09,Customer 23,North,Furniture,Chairs,Comfort Seat,8,350.9,0.15,2386.12,696.36,211.22
+ORD1089,2023-07-07,Customer 30,East,Office Supplies,Art,Markers Set,2,349.94,0.1,629.892,86.972,271.46
+ORD1090,2023-02-10,Customer 81,South,Technology,Phones,SmartPhone A1,3,456.04,0.05,1299.714,581.454,239.42
+ORD1091,2023-06-06,Customer 22,East,Office Supplies,Art,Markers Set,2,244.98,0.1,440.964,75.984,182.49
+ORD1092,2023-01-15,Customer 35,West,Technology,Phones,SmartPhone A1,7,372.58,0.2,2086.448,553.868,218.94
+ORD1093,2023-10-28,Customer 12,South,Office Supplies,Binders,Executive Binder,10,39.31,0.05,373.445,112.145,26.13
+ORD1094,2023-03-06,Customer 84,West,Technology,Accessories,USB Hub,8,485.15,0.15,3299.02,885.74,301.66
+ORD1095,2023-12-11,Customer 43,East,Office Supplies,Binders,Ring Binder,6,217.59,0.15,1109.709,325.269,130.74
+ORD1096,2023-11-23,Customer 52,North,Technology,Phones,Cordless Phone Z,5,175.17,0.15,744.4725,41.4225,140.61
+ORD1097,2023-01-09,Customer 1,West,Technology,Phones,SmartPhone A1,9,193.65,0.15,1481.4225,228.5325,139.21
+ORD1098,2023-12-10,Customer 98,North,Furniture,Bookcases,3-Shelf Bookcase,5,230.3,0.25,863.625,92.525,154.22
+ORD1099,2023-05-09,Customer 4,South,Office Supplies,Paper,Graph Paper,9,26.56,0.15,203.184,75.834,14.15
+ORD1100,2023-05-16,Customer 15,West,Furniture,Tables,Glass Desk,5,264.26,0.1,1189.17,336.37,170.56
+ORD1101,2023-03-04,Customer 62,West,Furniture,Furnishings,Desk Lamp,7,111.49,0.2,624.344,95.284,75.58
+ORD1102,2023-05-19,Customer 18,North,Technology,Machines,Laminator,9,148.24,0,1334.16,535.05,88.79
+ORD1103,2023-03-22,Customer 39,West,Furniture,Furnishings,Wall Art,6,179.57,0.2,861.936,180.996,113.49
+ORD1104,2023-06-12,Customer 42,South,Office Supplies,Paper,Graph Paper,4,430.89,0.15,1465.026,576.906,222.03
+ORD1105,2023-10-16,Customer 96,West,Office Supplies,Storage,Plastic Storage Box,3,257.76,0,773.28,352.47,140.27
+ORD1106,2023-09-18,Customer 76,East,Furniture,Furnishings,Desk Lamp,9,457.01,0,4113.09,1016.55,344.06
+ORD1107,2023-08-19,Customer 53,South,Furniture,Furnishings,Wall Art,6,319.16,0.15,1627.716,234.696,232.17
+ORD1108,2023-02-10,Customer 43,West,Technology,Machines,Fax Machine,10,52.84,0.25,396.3,5.5,39.08
+ORD1109,2023-01-28,Customer 37,South,Office Supplies,Binders,Executive Binder,2,384.98,0.25,577.47,-42.65,310.06
+ORD1110,2023-05-15,Customer 57,South,Office Supplies,Art,Sketch Pad,1,175.7,0,175.7,69.81,105.89
+ORD1111,2023-07-20,Customer 48,West,Furniture,Tables,Workstation Pro,7,291.65,0.05,1939.4725,797.2125,163.18
+ORD1112,2023-11-24,Customer 11,West,Office Supplies,Paper,Graph Paper,10,88.7,0.15,753.95,112.45,64.15
+ORD1113,2023-09-25,Customer 59,East,Office Supplies,Binders,Executive Binder,5,345.25,0.05,1639.9375,732.1875,181.55
+ORD1114,2023-02-02,Customer 45,East,Office Supplies,Storage,Plastic Storage Box,8,425.75,0.05,3235.7,341.38,361.79
+ORD1115,2023-02-17,Customer 62,North,Furniture,Furnishings,Wall Art,10,162.02,0.25,1215.15,237.65,97.75
+ORD1116,2023-03-03,Customer 85,West,Technology,Phones,SmartPhone A1,10,377.68,0.1,3399.12,485.32,291.38
+ORD1117,2023-08-04,Customer 30,East,Furniture,Tables,Workstation Pro,5,345.33,0.25,1294.9875,-32.1625,265.43
+ORD1118,2023-10-20,Customer 88,South,Office Supplies,Binders,Ring Binder,5,398.53,0,1992.65,592.1,280.11
+ORD1119,2023-04-09,Customer 94,South,Furniture,Bookcases,8-Cube Organizer,7,104.31,0.05,693.6615,127.5715,80.87
+ORD1120,2023-06-21,Customer 47,East,Furniture,Bookcases,8-Cube Organizer,5,378.35,0.1,1702.575,224.225,295.67
+ORD1121,2023-12-26,Customer 60,North,Furniture,Tables,Workstation Pro,7,484.29,0.2,2712.024,583.044,304.14
+ORD1122,2023-08-02,Customer 51,North,Technology,Phones,Cordless Phone Z,6,342.96,0.25,1543.32,325.62,202.95
+ORD1123,2023-02-04,Customer 49,East,Furniture,Tables,Glass Desk,1,317.38,0.2,253.904,58.774,195.13
+ORD1124,2023-08-15,Customer 79,South,Office Supplies,Binders,Executive Binder,5,331.63,0,1658.15,747.95,182.04
+ORD1125,2023-04-11,Customer 5,East,Technology,Phones,SmartPhone A1,4,445.88,0.05,1694.344,559.984,283.59
+ORD1126,2023-05-11,Customer 48,West,Office Supplies,Paper,Graph Paper,2,420.17,0.2,672.272,132.072,270.1
+ORD1127,2023-09-14,Customer 36,North,Office Supplies,Art,Sketch Pad,8,233.45,0.05,1774.22,281.26,186.62
+ORD1128,2023-01-05,Customer 13,East,Office Supplies,Art,Sketch Pad,7,152.42,0,1066.94,179.06,126.84
+ORD1129,2023-08-06,Customer 59,North,Office Supplies,Paper,Printer Paper,1,397.66,0.05,377.777,41.317,336.46
+ORD1130,2023-09-12,Customer 73,South,Furniture,Tables,Workstation Pro,4,410.27,0.05,1559.026,549.786,252.31
+ORD1131,2023-12-25,Customer 19,North,Technology,Accessories,Wireless Mouse,9,140.31,0.05,1199.6505,519.7005,75.55
+ORD1132,2023-10-10,Customer 4,South,Furniture,Bookcases,3-Shelf Bookcase,10,175.41,0.05,1666.395,626.395,104
+ORD1133,2023-07-26,Customer 17,West,Office Supplies,Binders,Ring Binder,8,235.17,0.1,1693.224,414.584,159.83
+ORD1134,2023-01-15,Customer 14,West,Office Supplies,Paper,Printer Paper,9,164.78,0.25,1112.265,-129.645,137.99
+ORD1135,2023-12-12,Customer 8,West,Technology,Machines,Fax Machine,8,361.95,0.15,2461.26,939.02,190.28
+ORD1136,2023-02-11,Customer 11,East,Office Supplies,Paper,Printer Paper,3,152.01,0.25,342.0225,20.5725,107.15
+ORD1137,2023-06-28,Customer 92,East,Technology,Copiers,Color Copier 3000,9,310.6,0,2795.4,621.72,241.52
+ORD1138,2023-03-04,Customer 15,South,Technology,Machines,Fax Machine,7,182.69,0.15,1087.0055,269.1255,116.84
+ORD1139,2023-12-18,Customer 94,North,Technology,Machines,Laminator,5,199.66,0.05,948.385,209.235,147.83
+ORD1140,2023-08-19,Customer 61,North,Furniture,Chairs,ErgoChair X,7,66.35,0.25,348.3375,55.5275,41.83
+ORD1141,2023-08-29,Customer 17,North,Office Supplies,Art,Sketch Pad,7,189.73,0.25,996.0825,-105.4375,157.36
+ORD1142,2023-02-21,Customer 55,North,Technology,Copiers,Color Copier 3000,2,297.4,0.05,565.06,235.44,164.81
+ORD1143,2023-04-06,Customer 62,South,Furniture,Bookcases,8-Cube Organizer,2,386.05,0.2,617.68,170.52,223.58
+ORD1144,2023-08-10,Customer 55,North,Office Supplies,Art,Sketch Pad,3,151.17,0.1,408.159,35.139,124.34
+ORD1145,2023-08-19,Customer 45,North,Furniture,Tables,Workstation Pro,7,53.4,0.25,280.35,10.64,38.53
+ORD1146,2023-08-25,Customer 4,North,Office Supplies,Paper,Graph Paper,7,237.75,0.05,1581.0375,533.3475,149.67
+ORD1147,2023-05-23,Customer 93,East,Office Supplies,Binders,Ring Binder,3,95.56,0.2,229.344,81.024,49.44
+ORD1148,2023-06-20,Customer 11,East,Technology,Machines,Laminator,10,232.18,0.1,2089.62,753.52,133.61
+ORD1149,2023-01-29,Customer 66,North,Technology,Machines,Fax Machine,5,345.54,0.2,1382.16,224.06,231.62
+ORD1150,2023-02-05,Customer 86,East,Furniture,Tables,Glass Desk,10,46.3,0.05,439.85,159.55,28.03
+ORD1151,2023-01-13,Customer 28,South,Technology,Copiers,Color Copier 3000,2,23.71,0.25,35.565,4.705,15.43
+ORD1152,2023-06-09,Customer 17,West,Office Supplies,Paper,Graph Paper,2,210.59,0.25,315.885,99.065,108.41
+ORD1153,2023-11-23,Customer 3,West,Furniture,Bookcases,8-Cube Organizer,10,214.12,0.25,1605.9,222.3,138.36
+ORD1154,2023-07-06,Customer 15,West,Furniture,Bookcases,3-Shelf Bookcase,10,240.85,0.25,1806.375,-173.225,197.96
+ORD1155,2023-08-31,Customer 12,West,Furniture,Tables,Glass Desk,10,212.22,0,2122.2,767.1,135.51
+ORD1156,2023-03-27,Customer 40,East,Furniture,Bookcases,3-Shelf Bookcase,2,265.03,0,530.06,166.6,181.73
+ORD1157,2023-10-11,Customer 25,East,Technology,Accessories,Wireless Mouse,2,90.29,0.05,171.551,70.291,50.63
+ORD1158,2023-03-07,Customer 20,North,Furniture,Furnishings,Wall Art,10,384.74,0.15,3270.29,429.39,284.09
+ORD1159,2023-06-19,Customer 73,East,Office Supplies,Art,Sketch Pad,8,52.78,0.15,358.904,54.504,38.05
+ORD1160,2023-02-14,Customer 36,North,Technology,Phones,Cordless Phone Z,8,236.92,0,1895.36,703.04,149.04
+ORD1161,2023-03-03,Customer 37,North,Office Supplies,Binders,Executive Binder,8,298.56,0.25,1791.36,-151.84,242.9
+ORD1162,2023-05-14,Customer 58,South,Technology,Machines,Fax Machine,1,236.25,0.1,212.625,13.265,199.36
+ORD1163,2023-10-11,Customer 11,South,Furniture,Tables,Workstation Pro,8,495.67,0.2,3172.288,464.128,338.52
+ORD1164,2023-01-28,Customer 21,East,Technology,Copiers,Color Copier 3000,7,391.74,0.25,2056.635,111.685,277.85
+ORD1165,2023-04-18,Customer 81,East,Furniture,Bookcases,3-Shelf Bookcase,9,345.62,0.1,2799.522,969.912,203.29
+ORD1166,2023-02-13,Customer 85,South,Technology,Phones,SmartPhone A1,6,168.91,0.25,760.095,5.595,125.75
+ORD1167,2023-12-06,Customer 51,South,Office Supplies,Binders,Executive Binder,9,200.81,0.1,1626.561,208.521,157.56
+ORD1168,2023-10-13,Customer 86,North,Office Supplies,Storage,Plastic Storage Box,1,194.05,0.05,184.3475,22.7175,161.63
+ORD1169,2023-11-27,Customer 44,West,Furniture,Tables,Oak Table,3,57.04,0,171.12,55.14,38.66
+ORD1170,2023-05-08,Customer 70,North,Office Supplies,Art,Sketch Pad,10,200.83,0.05,1907.885,776.585,113.13
+ORD1171,2023-12-14,Customer 89,South,Office Supplies,Storage,Filing Cabinet,7,194.86,0.25,1023.015,227.605,113.63
+ORD1172,2023-08-19,Customer 57,East,Office Supplies,Storage,Filing Cabinet,9,134.8,0.15,1031.22,40.77,110.05
+ORD1173,2023-07-09,Customer 25,East,Office Supplies,Storage,Plastic Storage Box,5,393.5,0.2,1574,227.05,269.39
+ORD1174,2023-08-13,Customer 21,South,Office Supplies,Paper,Graph Paper,1,327.77,0.1,294.993,67.493,227.5
+ORD1175,2023-10-10,Customer 14,North,Technology,Phones,SmartPhone A1,5,235.67,0.2,942.68,292.73,129.99
+ORD1176,2023-05-01,Customer 56,North,Furniture,Furnishings,Wall Art,1,219.15,0.15,186.2775,38.1975,148.08
+ORD1177,2023-04-26,Customer 31,West,Furniture,Bookcases,3-Shelf Bookcase,1,172.97,0,172.97,35.68,137.29
+ORD1178,2023-08-21,Customer 84,East,Furniture,Tables,Oak Table,5,460.35,0.15,1956.4875,244.8375,342.33
+ORD1179,2023-09-16,Customer 18,West,Technology,Phones,SmartPhone A1,1,142.84,0.05,135.698,36.838,98.86
+ORD1180,2023-12-25,Customer 94,West,Furniture,Bookcases,3-Shelf Bookcase,5,78.49,0.05,372.8275,118.9275,50.78
+ORD1181,2023-07-17,Customer 80,West,Furniture,Chairs,Comfort Seat,10,277.31,0.25,2079.825,193.025,188.68
+ORD1182,2023-05-17,Customer 31,South,Technology,Machines,Fax Machine,10,189.35,0.2,1514.8,292,122.28
+ORD1183,2023-11-14,Customer 86,North,Office Supplies,Art,Sketch Pad,9,281.16,0.2,2024.352,268.362,195.11
+ORD1184,2023-06-14,Customer 50,West,Furniture,Furnishings,Wall Art,5,378.71,0.1,1704.195,234.845,293.87
+ORD1185,2023-08-13,Customer 45,South,Office Supplies,Binders,Executive Binder,3,41.28,0.2,99.072,22.482,25.53
+ORD1186,2023-11-03,Customer 83,South,Office Supplies,Storage,Plastic Storage Box,3,409.52,0,1228.56,306.39,307.39
+ORD1187,2023-08-22,Customer 59,North,Technology,Accessories,Wireless Mouse,4,445.18,0.1,1602.648,130.568,368.02
+ORD1188,2023-06-21,Customer 66,West,Office Supplies,Storage,Plastic Storage Box,1,381.58,0.05,362.501,133.501,229
+ORD1189,2023-06-01,Customer 100,North,Office Supplies,Art,Markers Set,2,403.68,0.15,686.256,31.236,327.51
+ORD1190,2023-11-11,Customer 96,West,Technology,Copiers,All-in-One Copier,8,352.19,0.1,2535.768,215.528,290.03
+ORD1191,2023-06-09,Customer 67,East,Furniture,Furnishings,Desk Lamp,7,309.18,0.05,2056.047,560.707,213.62
+ORD1192,2023-04-06,Customer 42,North,Furniture,Bookcases,8-Cube Organizer,5,234.04,0.25,877.65,118.05,151.92
+ORD1193,2023-08-21,Customer 89,West,Technology,Machines,Fax Machine,6,315.13,0.15,1607.163,480.063,187.85
+ORD1194,2023-06-29,Customer 8,North,Office Supplies,Storage,Plastic Storage Box,9,404.53,0.25,2730.5775,706.2975,224.92
+ORD1195,2023-04-23,Customer 4,South,Office Supplies,Storage,Filing Cabinet,3,52.27,0.25,117.6075,19.0875,32.84
+ORD1196,2023-11-14,Customer 50,North,Office Supplies,Paper,Graph Paper,6,198.57,0,1191.42,356.4,139.17
+ORD1197,2023-02-21,Customer 68,East,Technology,Copiers,Color Copier 3000,4,481.05,0,1924.2,466.64,364.39
+ORD1198,2023-09-25,Customer 64,West,Office Supplies,Binders,Executive Binder,5,357.94,0.05,1700.215,181.265,303.79
+ORD1199,2023-10-22,Customer 37,West,Furniture,Chairs,ErgoChair X,2,236.98,0.25,355.47,44.65,155.41
+ORD1200,2023-04-23,Customer 12,East,Office Supplies,Art,Sketch Pad,9,280.24,0.1,2269.944,257.364,223.62
+ORD1201,2023-04-11,Customer 92,South,Technology,Accessories,Wireless Mouse,4,400.19,0.05,1520.722,277.522,310.8
+ORD1202,2023-04-23,Customer 4,East,Office Supplies,Art,Markers Set,9,82.29,0,740.61,353.25,43.04
+ORD1203,2023-03-22,Customer 51,West,Office Supplies,Storage,Plastic Storage Box,10,55.4,0.1,498.6,97.1,40.15
+ORD1204,2023-07-06,Customer 58,West,Office Supplies,Art,Sketch Pad,9,327.1,0.05,2796.705,533.655,251.45
+ORD1205,2023-04-23,Customer 17,West,Office Supplies,Binders,Ring Binder,9,93.45,0.05,798.9975,330.8175,52.02
+ORD1206,2023-01-02,Customer 91,South,Technology,Copiers,All-in-One Copier,5,114.22,0.2,456.88,116.48,68.08
+ORD1207,2023-05-10,Customer 81,East,Office Supplies,Binders,Ring Binder,10,471.97,0.05,4483.715,1841.015,264.27
+ORD1208,2023-08-08,Customer 80,East,Office Supplies,Binders,Ring Binder,2,41.82,0.25,62.73,-1.67,32.2
+ORD1209,2023-02-23,Customer 34,South,Office Supplies,Storage,Filing Cabinet,8,446.72,0.2,2859.008,709.808,268.65
+ORD1210,2023-12-09,Customer 39,West,Furniture,Furnishings,Wall Art,8,55.03,0,440.24,195.76,30.56
+ORD1211,2023-08-12,Customer 54,West,Technology,Accessories,USB Hub,10,88.96,0.25,667.2,123,54.42
+ORD1212,2023-08-13,Customer 45,West,Furniture,Bookcases,3-Shelf Bookcase,6,136.03,0,816.18,331.68,80.75
+ORD1213,2023-05-06,Customer 32,South,Furniture,Chairs,Comfort Seat,7,434.8,0.15,2587.06,800.8,255.18
+ORD1214,2023-05-10,Customer 21,East,Office Supplies,Art,Sketch Pad,3,259.17,0.2,622.008,106.218,171.93
+ORD1215,2023-02-22,Customer 40,West,Furniture,Chairs,Comfort Seat,9,239.47,0.05,2047.4685,807.5385,137.77
+ORD1216,2023-06-21,Customer 46,North,Furniture,Bookcases,8-Cube Organizer,10,443.52,0.25,3326.4,64.8,326.16
+ORD1217,2023-08-06,Customer 37,North,Furniture,Furnishings,Desk Lamp,5,369.2,0.15,1569.1,409.65,231.89
+ORD1218,2023-06-09,Customer 52,North,Office Supplies,Paper,Graph Paper,9,158.53,0.15,1212.7545,247.5945,107.24
+ORD1219,2023-07-17,Customer 98,East,Office Supplies,Binders,Ring Binder,2,209.07,0.1,376.326,85.626,145.35
+ORD1220,2023-09-04,Customer 47,South,Furniture,Furnishings,Desk Lamp,1,38.68,0.25,29.01,5.16,23.85
+ORD1221,2023-11-20,Customer 61,West,Furniture,Tables,Glass Desk,10,172.89,0.15,1469.565,5.665,146.39
+ORD1222,2023-07-22,Customer 95,East,Office Supplies,Art,Markers Set,10,163.9,0,1639,608.2,103.08
+ORD1223,2023-07-03,Customer 87,North,Technology,Copiers,All-in-One Copier,10,247.8,0.25,1858.5,-59.5,191.8
+ORD1224,2023-05-03,Customer 100,South,Office Supplies,Binders,Executive Binder,3,271.63,0.25,611.1675,26.9775,194.73
+ORD1225,2023-09-12,Customer 49,South,Office Supplies,Paper,Printer Paper,10,475.14,0,4751.4,2058.4,269.3
+ORD1226,2023-10-21,Customer 57,East,Technology,Accessories,USB Hub,4,216.98,0.2,694.336,-19.264,178.4
+ORD1227,2023-10-07,Customer 95,North,Office Supplies,Paper,Printer Paper,9,176.02,0.25,1188.135,130.815,117.48
+ORD1228,2023-11-21,Customer 49,East,Furniture,Furnishings,Wall Art,9,190.06,0.25,1282.905,20.115,140.31
+ORD1229,2023-04-08,Customer 89,East,Office Supplies,Storage,Filing Cabinet,4,153.92,0.1,554.112,197.832,89.07
+ORD1230,2023-07-17,Customer 39,East,Office Supplies,Paper,Graph Paper,6,250.31,0.2,1201.488,-40.272,206.96
+ORD1231,2023-08-28,Customer 93,East,Technology,Phones,Cordless Phone Z,7,412.82,0.05,2745.253,1006.593,248.38
+ORD1232,2023-05-24,Customer 37,North,Technology,Machines,Laminator,8,122.71,0.2,785.344,201.344,73
+ORD1233,2023-04-07,Customer 72,East,Furniture,Chairs,Executive Leather,10,134.86,0,1348.6,358.1,99.05
+ORD1234,2023-07-20,Customer 68,South,Office Supplies,Paper,Printer Paper,2,218.38,0.25,327.57,36.97,145.3
+ORD1235,2023-05-04,Customer 88,South,Furniture,Tables,Glass Desk,8,249.18,0.05,1893.768,369.608,190.52
+ORD1236,2023-07-06,Customer 37,East,Technology,Phones,SmartPhone A1,10,131.47,0.25,986.025,-4.075,99.01
+ORD1237,2023-11-22,Customer 5,South,Technology,Accessories,Wireless Mouse,7,398.22,0.05,2648.163,340.613,329.65
+ORD1238,2023-12-15,Customer 38,North,Furniture,Bookcases,3-Shelf Bookcase,6,156.59,0.25,704.655,56.235,108.07
+ORD1239,2023-09-16,Customer 64,South,Office Supplies,Storage,Plastic Storage Box,4,408.23,0.1,1469.628,560.308,227.33
+ORD1240,2023-05-28,Customer 59,East,Office Supplies,Paper,Printer Paper,6,399.57,0.2,1917.936,153.336,294.1
+ORD1241,2023-09-09,Customer 25,South,Office Supplies,Storage,Plastic Storage Box,9,177.4,0.15,1357.11,184.86,130.25
+ORD1242,2023-12-12,Customer 24,South,Technology,Copiers,All-in-One Copier,1,145.18,0.05,137.921,42.631,95.29
+ORD1243,2023-05-27,Customer 35,East,Technology,Phones,Cordless Phone Z,6,352.53,0,2115.18,563.22,258.66
+ORD1244,2023-05-28,Customer 60,East,Furniture,Furnishings,Wall Art,2,326.58,0.1,587.844,177.244,205.3
+ORD1245,2023-12-18,Customer 29,South,Furniture,Furnishings,Desk Lamp,8,378.91,0.2,2425.024,513.024,239
+ORD1246,2023-07-18,Customer 90,West,Office Supplies,Paper,Printer Paper,10,439.1,0,4391,1387.9,300.31
+ORD1247,2023-11-04,Customer 68,East,Furniture,Chairs,ErgoChair X,9,453.39,0.05,3876.4845,1018.2645,317.58
+ORD1248,2023-05-08,Customer 20,South,Technology,Machines,Fax Machine,4,364.12,0.15,1238.008,463.408,193.65
+ORD1249,2023-02-08,Customer 66,West,Furniture,Furnishings,Desk Lamp,9,219.4,0.2,1579.68,552.51,114.13
+ORD1250,2023-12-04,Customer 60,East,Office Supplies,Binders,Executive Binder,5,411.9,0.25,1544.625,357.825,237.36
+ORD1251,2023-12-26,Customer 10,North,Technology,Copiers,All-in-One Copier,9,497.18,0,4474.62,692.91,420.19
+ORD1252,2023-05-09,Customer 61,North,Technology,Machines,Fax Machine,3,387.6,0.25,872.1,27.84,281.42
+ORD1253,2023-09-24,Customer 54,East,Technology,Machines,Laminator,7,58.52,0.25,307.23,-22.96,47.17
+ORD1254,2023-05-31,Customer 18,East,Furniture,Tables,Workstation Pro,7,273.84,0.25,1437.66,-177.38,230.72
+ORD1255,2023-10-25,Customer 1,North,Technology,Machines,Laminator,9,202.05,0.05,1727.5275,660.7575,118.53
+ORD1256,2023-04-09,Customer 45,South,Technology,Accessories,Wireless Mouse,1,408.55,0.15,347.2675,55.0675,292.2
+ORD1257,2023-09-20,Customer 3,South,Furniture,Chairs,ErgoChair X,10,36.12,0.2,288.96,23.36,26.56
+ORD1258,2023-09-09,Customer 7,South,Office Supplies,Binders,Executive Binder,8,132.48,0.05,1006.848,197.088,101.22
+ORD1259,2023-05-24,Customer 100,North,Furniture,Bookcases,3-Shelf Bookcase,10,173.07,0.2,1384.56,51.26,133.33
+ORD1260,2023-12-12,Customer 42,South,Technology,Accessories,Wireless Mouse,7,164.24,0,1149.68,350.84,114.12
+ORD1261,2023-04-22,Customer 76,South,Office Supplies,Storage,Plastic Storage Box,1,486.7,0.25,365.025,7.315,357.71
+ORD1262,2023-03-01,Customer 68,East,Office Supplies,Storage,Plastic Storage Box,3,163.95,0.05,467.2575,91.4475,125.27
+ORD1263,2023-01-02,Customer 61,South,Furniture,Bookcases,3-Shelf Bookcase,8,459.08,0.2,2938.112,571.312,295.85
+ORD1264,2023-10-31,Customer 54,South,Technology,Accessories,USB Hub,4,178.53,0,714.12,126.56,146.89
+ORD1265,2023-09-11,Customer 48,North,Office Supplies,Paper,Printer Paper,5,201.04,0.2,804.16,89.46,142.94
+ORD1266,2023-05-20,Customer 10,South,Office Supplies,Paper,Graph Paper,4,437.35,0.1,1574.46,514.14,265.08
+ORD1267,2023-02-06,Customer 2,South,Furniture,Chairs,Executive Leather,8,458.93,0.25,2753.58,141.18,326.55
+ORD1268,2023-06-09,Customer 27,West,Furniture,Bookcases,8-Cube Organizer,7,243.8,0.25,1279.95,212.03,152.56
+ORD1269,2023-01-09,Customer 34,East,Office Supplies,Storage,Plastic Storage Box,2,405.35,0.25,608.025,69.465,269.28
+ORD1270,2023-08-21,Customer 41,South,Technology,Copiers,Color Copier 3000,1,290.01,0.05,275.5095,55.2695,220.24
+ORD1271,2023-04-09,Customer 3,East,Office Supplies,Storage,Plastic Storage Box,3,114.17,0.05,325.3845,108.6045,72.26
+ORD1272,2023-05-27,Customer 32,West,Office Supplies,Art,Markers Set,8,483.92,0.25,2903.52,-34.32,367.23
+ORD1273,2023-10-31,Customer 59,South,Office Supplies,Art,Sketch Pad,3,365.75,0.15,932.6625,313.3425,206.44
+ORD1274,2023-07-27,Customer 70,North,Office Supplies,Binders,Ring Binder,1,386.88,0.15,328.848,116.788,212.06
+ORD1275,2023-05-11,Customer 81,South,Furniture,Tables,Oak Table,4,262.75,0.1,945.9,398.18,136.93
+ORD1276,2023-06-01,Customer 82,West,Office Supplies,Storage,Filing Cabinet,1,275.46,0.15,234.141,95.271,138.87
+ORD1277,2023-02-23,Customer 68,East,Office Supplies,Art,Sketch Pad,9,410.32,0.25,2769.66,366.66,267
+ORD1278,2023-04-30,Customer 23,North,Furniture,Tables,Oak Table,4,317.49,0.1,1142.964,145.644,249.33
+ORD1279,2023-06-10,Customer 35,West,Furniture,Bookcases,8-Cube Organizer,8,291.2,0.25,1747.2,398.24,168.62
+ORD1280,2023-04-26,Customer 88,North,Office Supplies,Binders,Ring Binder,7,202.05,0.2,1131.48,188.65,134.69
+ORD1281,2023-03-16,Customer 82,North,Office Supplies,Paper,Printer Paper,8,425.76,0.25,2554.56,-83.52,329.76
+ORD1282,2023-04-23,Customer 73,North,Office Supplies,Binders,Ring Binder,4,452.61,0.25,1357.83,-109.81,366.91
+ORD1283,2023-04-14,Customer 61,East,Furniture,Chairs,Executive Leather,5,451.67,0.2,1806.68,157.33,329.87
+ORD1284,2023-12-06,Customer 23,East,Furniture,Tables,Workstation Pro,3,381.08,0.25,857.43,-42.66,300.03
+ORD1285,2023-09-11,Customer 10,East,Furniture,Tables,Workstation Pro,7,344.98,0.2,1931.888,444.108,212.54
+ORD1286,2023-08-15,Customer 97,South,Office Supplies,Binders,Executive Binder,1,66.89,0.05,63.5455,10.4655,53.08
+ORD1287,2023-04-22,Customer 44,West,Technology,Phones,Cordless Phone Z,8,255.49,0.1,1839.528,421.928,177.2
+ORD1288,2023-04-09,Customer 49,West,Furniture,Furnishings,Desk Lamp,10,161.78,0.05,1536.91,324.21,121.27
+ORD1289,2023-06-02,Customer 11,East,Furniture,Furnishings,Desk Lamp,7,172.01,0,1204.07,563.5,91.51
+ORD1290,2023-12-15,Customer 40,West,Technology,Copiers,All-in-One Copier,3,61.9,0.15,157.845,35.835,40.67
+ORD1291,2023-12-04,Customer 72,West,Furniture,Chairs,ErgoChair X,6,286.03,0.2,1372.944,155.604,202.89
+ORD1292,2023-07-13,Customer 42,West,Furniture,Bookcases,8-Cube Organizer,7,394,0.25,2068.5,-180.39,321.27
+ORD1293,2023-11-06,Customer 32,South,Office Supplies,Storage,Filing Cabinet,3,149.08,0.1,402.516,101.706,100.27
+ORD1294,2023-06-12,Customer 9,South,Technology,Copiers,Color Copier 3000,5,252.43,0,1262.15,471.55,158.12
+ORD1295,2023-07-27,Customer 32,West,Office Supplies,Paper,Graph Paper,2,85.03,0,170.06,28.56,70.75
+ORD1296,2023-06-18,Customer 43,West,Technology,Machines,Laminator,7,411.43,0.25,2160.0075,-261.9925,346
+ORD1297,2023-06-10,Customer 18,East,Technology,Accessories,USB Hub,6,105.27,0.15,536.877,6.897,88.33
+ORD1298,2023-03-09,Customer 38,West,Office Supplies,Paper,Graph Paper,7,154.54,0.15,919.513,240.443,97.01
+ORD1299,2023-10-16,Customer 73,South,Office Supplies,Paper,Printer Paper,8,472.63,0.05,3591.988,1121.268,308.84
