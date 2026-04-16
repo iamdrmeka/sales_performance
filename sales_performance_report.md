@@ -89,6 +89,7 @@ A deeper dive into the subcategories to understand where the profits and revenue
 - Discount played no role in increasing or decreasing sales.
 - Profit was negatively affected by discount, with higher discount leading to negative profit.
 - Discount should be revaluated to ensure that it drives sales and increases revenue and sales.
+- The North enjoyed higher average discount across the regions, yet recorded the lowest sales, revenue and Profit.
 
 #### MONTHLY AND QUARTERLY TREND
 
@@ -104,3 +105,8 @@ A deeper dive into the subcategories to understand where the profits and revenue
 ![alt text](VISUALS/TOP_CUSTOMERS.png)
 
 Top Customers across different metrics.
+
+- Customers with the highest purchase did not generate the highest revenue.
+- Some Customers may be buying highly discounted items which may explain the difference between sales and revenue.
+- Actions should be taken to project higher margin products for high volume buyers.
+- Actions should be taken to get more customers to purchase the higher margin products
