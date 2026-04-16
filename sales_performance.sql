@@ -42,3 +42,12 @@ FROM sales_performance
 GROUP BY `Product Sub-Category`
 ORDER BY revenue DESC;
 
+
+-- Average Discount by region
+
+SELECT
+    region,
+    AVG(`discount (%)`) AS Average_Discount
+FROM sales_performance
+GROUP BY region
+ORDER BY Average_Discount DESC;
