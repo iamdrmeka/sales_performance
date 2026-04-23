@@ -1,8 +1,8 @@
-[text](sales_performance_report.md)
+![DashBoard](VISUALS/dashboard.png)
 #### Navigation Guide  
 
 **Sales_Performance.csv**: Datset  
-**sales_performance.ipynb**: Pandas script File  
-**sales_performance_report.md**: REPORT AND INSIGHTS  
+[Pandas](sales_performance.ipynb): script File  
+[REPORTS AND INSIGHTS](sales_performance_report.md)
 
 - Thanks for coming, your input will be appreciated.
